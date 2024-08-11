@@ -40,8 +40,7 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for first in range(len(nums) - 1):
             for second in range(first + 1, len(nums)):
-                result = nums[first] + nums[second]
-                if result == target: return [first, second]
+                if nums[first] + nums[second] == target: return [first, second]
 ```
 
 #### Java
