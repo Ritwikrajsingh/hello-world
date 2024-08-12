@@ -121,7 +121,7 @@ class Solution {
 
 ### Solution 4: HashMap - alternative to HashSet
 
-_Same idea as using a `HashSet`, but uses a HashMap instead to explicitly store counts or presence._
+_Same idea as using a `HashSet`, but uses a `HashMap` instead to explicitly store counts or presence._
 
 #### Java
 
