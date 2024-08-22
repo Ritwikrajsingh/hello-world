@@ -1,6 +1,6 @@
 # Reverse Linked List
 
-### Problime Link: https://leetcode.com/problems/reverse-linked-list/description/
+### Problime Link: https://leetcode.com/problems/reverse-linked-list/description
 
 ## Description
 
